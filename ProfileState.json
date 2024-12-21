@@ -1,0 +1,679 @@
+﻿{
+  "ServerState": {
+    "Account": {
+      "SnapId": "2607#54072",
+      "Name": "2607",
+      "Tag": 54072,
+      "WinsInPlaytestEnvironment": 1041,
+      "LossesInPlaytestEnvironment": 877,
+      "TiesInPlaytestEnvironment": 9,
+      "AiGamesPlayed": 3,
+      "Concedes": 187,
+      "OpponentConcedes": 262,
+      "Snaps": 548,
+      "CardStats": {
+        "InvisibleWoman": 1,
+        "Storm": 1,
+        "Rescue": -18,
+        "Hulkbuster": 0,
+        "Uatu": 1,
+        "EbonyMaw": -25,
+        "Lizard": -8,
+        "Sera": -1,
+        "DrDoom": -1,
+        "Morbius": -1,
+        "Mjolnir": 3,
+        "Leech": -1,
+        "ShadowKing": 1,
+        "Jubilee": 21,
+        "MistyKnight": 9,
+        "ScarletWitch": -3,
+        "TyphoidMary": -1,
+        "Quake": 1,
+        "Shanna": 0,
+        "Mysterio": 0,
+        "BuckyBarnes": 7,
+        "Hood": 1,
+        "LadySif": 1,
+        "Bast": 0,
+        "Enchantress": 6,
+        "BlackWidow": 1,
+        "MariaHill": -4,
+        "Namor": 4,
+        "Angel": -19,
+        "Sabretooth": 6,
+        "OmegaRed": 0,
+        "Ronan": 0,
+        "SuperSkrull": 1,
+        "Punisher": 32,
+        "IronMan": 21,
+        "Blade": -13,
+        "Attuma": 2,
+        "Hellcow": -4,
+        "Wave": 0,
+        "RedSkull": 1,
+        "BlackPanther": 2,
+        "SheHulk": -1,
+        "Starlord": 15,
+        "Valkyrie": -16,
+        "Mystique": -8,
+        "IronFist": -24,
+        "Dagger": 1,
+        "Iceman": 3,
+        "AntMan": 17,
+        "Agent13": 37,
+        "Bishop": 0,
+        "Deadpool": 2,
+        "Onslaught": 10,
+        "SilverSurfer": -2,
+        "MrFantastic": 39,
+        "Drax": 0,
+        "Vulture": 4,
+        "ProfessorX": -2,
+        "LukeCage": 0,
+        "Forge": 2,
+        "Titania": -8,
+        "Hulk": 51,
+        "Spectrum": 6,
+        "Modok": 1,
+        "Thor": 1,
+        "Stature": -1,
+        "ShangChi": 0,
+        "Cloak": -3,
+        "Silk": 1,
+        "Hazmat": -1,
+        "GhostSpider": 1,
+        "Klaw": 2,
+        "Debrii": 2,
+        "Stegron": -1,
+        "Abomination": 29,
+        "Thanos": 1,
+        "Sandman": 3,
+        "Rhino": -4,
+        "Hawkeye": 33,
+        "Wolfsbane": -5,
+        "Sentinel": 115,
+        "Ironheart": 20,
+        "AmericaChavez": -1,
+        "Nakia": 9,
+        "Nova": 3,
+        "JessicaJones": 26,
+        "Giganto": 0,
+        "StrongGuy": -1,
+        "Nightcrawler": 49,
+        "Medusa": 22,
+        "MoonGirl": 103,
+        "KittyPryde": 1,
+        "Infinaut": -2,
+        "Venom": -1,
+        "Ghost": 10,
+        "MrSinister": 1,
+        "Daredevil": 0,
+        "SnowguardHawk": -1,
+        "HumanTorch": 0,
+        "Vibranium": -5,
+        "MasterMold": -1,
+        "Nimrod": 2,
+        "JaneFoster": 0,
+        "CaptainAmerica": 46,
+        "AbsorbingMan": -1,
+        "Magneto": 3,
+        "SwordMaster": 4,
+        "MoonKnight": 1,
+        "HitMonkey": -1,
+        "Scorpion": 56,
+        "Apocalypse": -1,
+        "NickFury": 1,
+        "Viper": -3,
+        "Nebula": 1,
+        "TheThing": 3,
+        "Angela": -3,
+        "Darkhawk": -1,
+        "LivingTribunal": 1,
+        "Swarm": 1,
+        "Yondu": -4,
+        "Maximus": 1,
+        "Wong": 2,
+        "Crossbones": 1,
+        "Morph": -11,
+        "Sentry": 1,
+        "Korg": 9,
+        "Sauron": 2,
+        "KaZar": 13,
+        "ColleenWing": 1,
+        "Aero": -1,
+        "Quicksilver": 55,
+        "SpiderMan": -1,
+        "Kingpin": 1,
+        "Rock": 14,
+        "Mojo": 6,
+        "GhostRider": 0,
+        "Cosmo": 65,
+        "WhiteTiger": 6,
+        "Taskmaster": -2,
+        "Cyclops": 8,
+        "Polaris": -8,
+        "Okoye": 3,
+        "Vision": -2,
+        "DoctorStrange": -15,
+        "Groot": 0,
+        "Death": 0,
+        "Heimdall": -9,
+        "Sunspot": 6,
+        "Galactus": -1,
+        "Crystal": 0,
+        "Cable": 9,
+        "ArnimZola": 0,
+        "GreenGoblin": 2,
+        "Killmonger": 0,
+        "Carnage": 11,
+        "SpiderHam": 1,
+        "BlackBolt": -1,
+        "Shocker": -9,
+        "Deathlok": 8,
+        "Kraven": -1,
+        "Mantis": 30,
+        "Elektra": 31,
+        "Psylocke": 1,
+        "Helicarrier": 2,
+        "Domino": 8,
+        "SquirrelGirl": -15,
+        "Warpath": 0,
+        "Armor": 6,
+        "WhiteQueen": 148,
+        "SpiderWoman": 121,
+        "HighEvolutionary": -2,
+        "RocketRaccoon": 11,
+        "Cerebro": 1,
+        "TheCollector": 82,
+        "Goose": 1,
+        "MultipleMan": -4,
+        "BlueMarvel": 9,
+        "Quinjet": 40,
+        "Colossus": 17,
+        "Beast": -1,
+        "Wasp": -19,
+        "Zabu": -3,
+        "Wolverine": 3,
+        "AgathaHarkness": 0,
+        "DevilDinosaur": 125,
+        "Gamora": 103,
+        "IronLad": 2,
+        "Odin": 12,
+        "Magik": 0
+      },
+      "PreviousGames": [
+        {},
+        {},
+        {
+          "Snap": true
+        },
+        {
+          "Snap": true
+        },
+        {
+          "Retreat": true
+        },
+        {
+          "Snap": true
+        },
+        {},
+        {
+          "Snap": true
+        },
+        {},
+        {
+          "Snap": true
+        }
+      ],
+      "Id": "ac53fc5f-593d-49da-84ba-aced6259e543",
+      "DataVersion": 2845,
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-07-09T01:13:02.618Z"
+    },
+    "FeatureDefIdsUnlocked": {
+      "FeatureDefIds": [
+        "BattleMode",
+        "BattlePass",
+        "CardBacks",
+        "SpecialDeals",
+        "DailyOffers",
+        "Localization",
+        "RankedMode",
+        "GenericAvatars",
+        "AgentRank",
+        "TokenShop",
+        "PracticeMode",
+        "ConquestMode"
+      ],
+      "Id": "55202262-6b44-473c-98a5-45f88a458945",
+      "DataVersion": 2848,
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-07-09T01:13:02.619Z"
+    },
+    "RankLog": {
+      "RankedSeasonDefId": "July2023",
+      "Rank": 100,
+      "Trophies": 6,
+      "HighWatermarkRank": 100,
+      "CurrentRankDetails": {
+        "Rank": 100,
+        "Trophies": 6
+      },
+      "HighWatermarkRankDetails": {
+        "Rank": 100,
+        "Trophies": 6
+      },
+      "RankDetailsAtSeasonStart": {
+        "Rank": 73
+      },
+      "GamesPlayedInSeason": 274,
+      "RewardsClaimedThisSeason": [
+        "July2023Iron",
+        "July2023Bronze",
+        "July2023Silver",
+        "July2023Gold",
+        "July2023Platinum",
+        "July2023Diamond",
+        "July2023Vibranium",
+        "July2023Omega",
+        "July2023Galactic",
+        "July2023Infinite"
+      ],
+      "Id": "736db460-38f6-4526-b937-a893cec32ef6",
+      "DataVersion": 2709,
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-07-09T01:13:02.356Z"
+    },
+    "TutorialLog": {
+      "Completed": [
+        "Tutorial_1",
+        "Tutorial_2",
+        "EnterCollection",
+        "DeckEditing",
+        "PlayUpdatedDeck",
+        "UpgradeCardPart1",
+        "UpgradeCardPart2",
+        "UpgradeCardPart3",
+        "ReachedIronTier",
+        "StakesTutorial_1",
+        "StakesTutorial_2",
+        "StakesTutorial_3",
+        "PurchaseLimits",
+        "InfinitySplit"
+      ],
+      "Id": "ebc86829-b690-42b4-98bc-74b73dec913e",
+      "DataVersion": 14,
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-05-30T19:51:10.726Z"
+    },
+    "MatchMakingRating": {
+      "Ratings": []
+    },
+    "MatchHistory": {
+      "HistoryPerLeague": [
+        {
+          "RecentGames": [
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-07-08T20:22:10.0010983Z"
+            },
+            {
+              "CubeDelta": -1,
+              "Timestamp": "2023-07-08T20:26:05.1708065Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 1,
+              "Timestamp": "2023-07-08T20:30:57.4404943Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 4,
+              "Timestamp": "2023-07-08T20:36:34.7738012Z"
+            },
+            {
+              "CubeDelta": -1,
+              "Timestamp": "2023-07-08T20:40:44.0536028Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-07-08T20:43:47.9198198Z"
+            },
+            {
+              "CubeDelta": -2,
+              "Timestamp": "2023-07-08T20:48:13.7555037Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 1,
+              "Timestamp": "2023-07-08T20:51:32.8258821Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 1,
+              "Timestamp": "2023-07-08T20:54:16.2474803Z"
+            },
+            {
+              "CubeDelta": -2,
+              "Timestamp": "2023-07-08T20:57:28.0821196Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-07-08T21:00:12.2003977Z"
+            },
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-07-08T21:03:49.9451197Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 1,
+              "Timestamp": "2023-07-08T21:07:13.1791141Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 4,
+              "Timestamp": "2023-07-08T21:10:35.8930653Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 8,
+              "Timestamp": "2023-07-08T21:17:05.7388372Z"
+            }
+          ],
+          "LeagueDefId": "Ranked",
+          "NumberOfGamesPlayed": 1930,
+          "WinningStreak": 3,
+          "RecentWinRate": 0.6,
+          "RecentCubeEarnRate": 0.6666667
+        },
+        {
+          "RecentGames": [
+            {
+              "CubeDelta": -10,
+              "Timestamp": "2023-06-22T11:36:09.5957181Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 5,
+              "Timestamp": "2023-06-23T00:24:54.5240496Z"
+            },
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-06-23T11:22:46.0654408Z"
+            },
+            {
+              "CubeDelta": -9,
+              "Timestamp": "2023-06-23T19:15:52.8855934Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 4,
+              "Timestamp": "2023-06-23T19:24:03.5460187Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 10,
+              "Timestamp": "2023-06-24T06:27:33.6634479Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 6,
+              "Timestamp": "2023-06-24T06:56:07.0477497Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 10,
+              "Timestamp": "2023-06-29T04:06:29.6065569Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 4,
+              "Timestamp": "2023-06-29T04:14:42.6120262Z"
+            },
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-07-02T05:56:56.3391712Z"
+            },
+            {
+              "CubeDelta": -10,
+              "Timestamp": "2023-07-02T22:23:34.3431369Z"
+            },
+            {
+              "CubeDelta": -1,
+              "Timestamp": "2023-07-04T19:22:44.5062726Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 8,
+              "Timestamp": "2023-07-06T20:42:42.8981686Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 8,
+              "Timestamp": "2023-07-06T21:53:15.9544395Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 6,
+              "Timestamp": "2023-07-09T01:12:37.618183Z"
+            }
+          ],
+          "LeagueDefId": "ConquestProvingGrounds",
+          "NumberOfGamesPlayed": 60,
+          "WinningStreak": 3,
+          "RecentWinRate": 0.6,
+          "RecentCubeEarnRate": 1.5333333
+        },
+        {
+          "RecentGames": [
+            {
+              "IsWin": true,
+              "CubeDelta": 6,
+              "Timestamp": "2023-06-25T05:29:37.7366935Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 8,
+              "Timestamp": "2023-06-25T05:57:20.9603375Z"
+            },
+            {
+              "Timestamp": "2023-06-28T05:40:20.8036105Z"
+            },
+            {
+              "CubeDelta": -8,
+              "Timestamp": "2023-06-28T05:54:28.1816044Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 3,
+              "Timestamp": "2023-06-28T11:16:44.6486215Z"
+            },
+            {
+              "CubeDelta": -6,
+              "Timestamp": "2023-06-28T12:07:34.3418438Z"
+            },
+            {
+              "CubeDelta": -7,
+              "Timestamp": "2023-06-29T20:29:36.9849722Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 3,
+              "Timestamp": "2023-06-30T07:38:44.4585591Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-06-30T13:14:31.989439Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 6,
+              "Timestamp": "2023-07-02T13:00:36.8111351Z"
+            },
+            {
+              "CubeDelta": -10,
+              "Timestamp": "2023-07-02T19:50:57.9573826Z"
+            },
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-07-06T21:01:21.7794863Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 1,
+              "Timestamp": "2023-07-06T22:23:28.4187182Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 8,
+              "Timestamp": "2023-07-06T22:39:50.9291246Z"
+            },
+            {
+              "CubeDelta": -6,
+              "Timestamp": "2023-07-09T00:23:50.2443575Z"
+            }
+          ],
+          "LeagueDefId": "ConquestSilver",
+          "NumberOfGamesPlayed": 66,
+          "WinningStreak": -1,
+          "RecentWinRate": 0.533333361,
+          "RecentCubeEarnRate": -0.266666681
+        },
+        {
+          "RecentGames": [
+            {
+              "IsWin": true,
+              "CubeDelta": 4,
+              "Timestamp": "2023-06-25T11:44:08.5287966Z"
+            },
+            {
+              "CubeDelta": -9,
+              "Timestamp": "2023-06-26T11:20:00.6749158Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-06-27T22:41:51.1489571Z"
+            },
+            {
+              "CubeDelta": -2,
+              "Timestamp": "2023-06-27T23:18:19.2117891Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 7,
+              "Timestamp": "2023-06-28T16:26:46.3510901Z"
+            },
+            {
+              "CubeDelta": -7,
+              "Timestamp": "2023-06-28T17:18:40.4054006Z"
+            },
+            {
+              "CubeDelta": -6,
+              "Timestamp": "2023-06-28T17:59:50.3710858Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-06-30T18:56:47.4838591Z"
+            },
+            {
+              "CubeDelta": -6,
+              "Timestamp": "2023-07-01T08:25:23.6213839Z"
+            },
+            {
+              "CubeDelta": -5,
+              "Timestamp": "2023-07-02T23:34:12.2374588Z"
+            },
+            {
+              "CubeDelta": -2,
+              "Timestamp": "2023-07-03T19:58:50.651525Z"
+            },
+            {
+              "CubeDelta": -9,
+              "Timestamp": "2023-07-03T22:11:42.5760433Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 10,
+              "Timestamp": "2023-07-06T22:47:21.4886905Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 2,
+              "Timestamp": "2023-07-07T00:18:16.3640616Z"
+            },
+            {
+              "CubeDelta": -5,
+              "Timestamp": "2023-07-07T00:49:36.5789138Z"
+            }
+          ],
+          "LeagueDefId": "ConquestGold",
+          "NumberOfGamesPlayed": 36,
+          "WinningStreak": -1,
+          "RecentWinRate": 0.4,
+          "RecentCubeEarnRate": -1.6
+        },
+        {
+          "RecentGames": [
+            {
+              "CubeDelta": -4,
+              "Timestamp": "2023-06-27T03:59:05.8057644Z"
+            },
+            {
+              "CubeDelta": -6,
+              "Timestamp": "2023-06-27T04:14:52.7906841Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 10,
+              "Timestamp": "2023-06-27T04:25:56.4504066Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 5,
+              "Timestamp": "2023-06-27T05:59:29.1201288Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 9,
+              "Timestamp": "2023-06-27T21:28:47.0847976Z"
+            },
+            {
+              "IsWin": true,
+              "CubeDelta": 3,
+              "Timestamp": "2023-06-27T22:03:49.6540713Z"
+            },
+            {
+              "CubeDelta": -9,
+              "Timestamp": "2023-06-27T22:23:27.3303971Z"
+            }
+          ],
+          "LeagueDefId": "ConquestInfinity",
+          "NumberOfGamesPlayed": 7,
+          "WinningStreak": -1,
+          "RecentWinRate": 0.5714286,
+          "RecentCubeEarnRate": 1.14285719
+        }
+      ],
+      "DataVersion": 2844,
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-07-09T01:13:02.62Z"
+    },
+    "Cohort": {
+      "CohortNumber": 90,
+      "Id": "58e0a026-e4e7-487d-b0ae-24f4ca19c4db",
+      "TimeCreated": "2023-05-20T22:55:34.273Z",
+      "TimeUpdated": "2023-05-20T22:55:34.273Z"
+    },
+    "ClientConfiguration": {}
+  },
+  "ClientState": {
+    "AskForNotifications": true
+  }
+}
